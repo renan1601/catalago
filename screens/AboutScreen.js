@@ -6,7 +6,7 @@ export default function AboutScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>Sobre o App</Text>
       <Text style={styles.text}>
-        Desenvolvedor: João H. Godinho
+        Desenvolvedor: Renan de Oliveira Rogério
       </Text>
       <Text style={styles.text}>
         Habilidades: H1, H7, H9, H12
